@@ -3,7 +3,7 @@ Exploring insights from the 2022 Stack Overflow Annual Developer Survey data
 
 ## Content
 - [Project Description](#project-description)
-- [Motivation](#project-motivation)
+- [Motivation](#motivation)
 - [Libraries Used](#Libraries-Used)
 - [Data and File Description](#Data-and-File-Description)
 - [Results](#Results)
@@ -15,7 +15,7 @@ In this project, I picked the topic "Influenca Forecasting". It's an end-to-end 
 
 <a name="project-goals"></a>
 
-## Project Motivation
+## Motivation
 * Using multiple source for the data analysis. 
 * Applying statistical and machine learning techniques.
 * Creating useful and clear graphs.
