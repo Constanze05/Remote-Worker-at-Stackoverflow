@@ -32,4 +32,4 @@ You can find more here: https://survey.stackoverflow.co/2022/#overview
 I added one notebook with the main results I discovered.
 
 ## Results
-I wrote some of the results down in the main notebook but you can also read about it in my blog post on medium here:
+I wrote some of the results down in the main notebook but you can also read about it in my blog post on medium here: https://medium.com/@constanze.krueger05/what-describes-a-fully-remote-working-developer-the-best-fd7d8f74b365
