@@ -8,12 +8,8 @@ Exploring insights from the 2022 Stack Overflow Annual Developer Survey data
 - [Data and File Description](#Data-and-File-Description)
 - [Results](#Results)
 
-<a name="project-description"></a>
-
 ## Project Description
 In this project, I picked the topic "Influenca Forecasting". It's an end-to-end analysis including statistical and machine learning techniques.
-
-<a name="project-goals"></a>
 
 ## Motivation
 * Using multiple source for the data analysis. 
